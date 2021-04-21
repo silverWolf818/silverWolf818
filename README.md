@@ -16,12 +16,12 @@
 #### 常用工具
 
 <p>
-<img height="20" src="https://img.shields.io/badge/WebStorm-ffffff?style=flat-square&logo=webStorm&logoColor=000000"/>
-<img height="20" src="https://img.shields.io/badge/Webpack-ffffff?style=flat-square&logo=webpack&logoColor=8dd6f9"/>
-<img height="20" src="https://img.shields.io/badge/vs code-ffffff?style=flat-square&logo=visual-studio-code&logoColor=0066b8"/>
-<img height="20" src="https://img.shields.io/badge/git-ffffff?style=flat-square&logo=git&logoColor=f54d27"/>
-<img height="20" src="https://img.shields.io/badge/chrome-ffffff?style=flat-square&logo=google-chrome&logoColor=fdc73d"/>
-<img height="20" src="https://img.shields.io/badge/sentry-ffffff?style=flat-square&logo=sentry&logoColor=e1567c"/>
+<img height="20" src="https://img.shields.io/badge/webStorm-ffffff?style=flat-square&logo=WebStorm&logoColor=000000"/>
+<img height="20" src="https://img.shields.io/badge/webpack-ffffff?style=flat-square&logo=Webpack&logoColor=8DD6F9"/>
+<img height="20" src="https://img.shields.io/badge/vs code-ffffff?style=flat-square&logo=visual-studio-code&logoColor=007ACC"/>
+<img height="20" src="https://img.shields.io/badge/git-ffffff?style=flat-square&logo=Git&logoColor=F05032"/>
+<img height="20" src="https://img.shields.io/badge/chrome-ffffff?style=flat-square&logo=google-chrome&logoColor=4285F4"/>
+<img height="20" src="https://img.shields.io/badge/sentry-ffffff?style=flat-square&logo=sentry&logoColor=362D59"/>
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaeSakuras&&hide=tsql) 
