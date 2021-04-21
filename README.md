@@ -12,6 +12,8 @@
 </p>
 
 <p>
+<img height="25" src="https://img.shields.io/badge/webpack-ffffff?style=flat-square&logo=Webpack&logoColor=8DD6F9"/>
+<img height="25" src="https://img.shields.io/badge/rollup-ffffff?style=flat-square&logo=rollup.js&logoColor=EC4A3F"/>
 <img height="25" src="https://img.shields.io/badge/nginx-ffffff?style=flat-square&logo=nginx&logoColor=e1567c"/>
 <img height="25" src="https://img.shields.io/badge/node.js-ffffff?style=flat-square&logo=Node.js&logoColor=339933"/>
 <img height="25" src="https://img.shields.io/badge/docker-ffffff?style=flat-square&logo=Docker&logoColor=2496ED"/>
@@ -21,8 +23,8 @@
 
 <p>
 <img height="25" src="https://img.shields.io/badge/webStorm-ffffff?style=flat-square&logo=WebStorm&logoColor=000000"/>
-<img height="25" src="https://img.shields.io/badge/webpack-ffffff?style=flat-square&logo=Webpack&logoColor=8DD6F9"/>
 <img height="25" src="https://img.shields.io/badge/vs code-ffffff?style=flat-square&logo=visual-studio-code&logoColor=007ACC"/>
+<img height="25" src="https://img.shields.io/badge/markdown-ffffff?style=flat-square&logo=Markdown&logoColor=000000"/>
 <img height="25" src="https://img.shields.io/badge/git-ffffff?style=flat-square&logo=Git&logoColor=F05032"/>
 <img height="25" src="https://img.shields.io/badge/chrome-ffffff?style=flat-square&logo=google-chrome&logoColor=4285F4"/>
 <img height="25" src="https://img.shields.io/badge/sentry-ffffff?style=flat-square&logo=sentry&logoColor=362D59"/>
