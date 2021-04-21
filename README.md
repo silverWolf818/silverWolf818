@@ -1,17 +1,17 @@
 [个人网站](https://www.zhouzh.tech/)
 
-#### 语言和框架
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/babel/babel.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+#### 日常开发
+<p>
+<img src="https://img.shields.io/badge/javascript-ffffff?style=flat-square&logo=JavaScript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/css-ffffff?style=flat-square&logo=css3&logoColor=1572B6"/>
+<img src="https://img.shields.io/badge/html-ffffff?style=flat-square&logo=html5&logoColor=E34F26"/>
+<img src="https://img.shields.io/badge/typescript-ffffff?style=flat-square&logo=Typescript&logoColor=3178C6"/>
+<img src="https://img.shields.io/badge/babel-ffffff?style=flat-square&logo=Babel&logoColor=F9DC3E"/>
+<img src="https://img.shields.io/badge/react-ffffff?style=flat-square&logo=React&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/vue-ffffff?style=flat-square&logo=vue.js&logoColor=FC08D"/>
+<img src="https://img.shields.io/badge/nginx-ffffff?style=flat-square&logo=nginx&logoColor=e1567c"/>
+<img src="https://img.shields.io/badge/node.js-ffffff?style=flat-square&logo=Node.js&logoColor=339933"/>
+</p>
 
 #### 常用工具
 
