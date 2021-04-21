@@ -21,6 +21,7 @@
 <img height="20" src="https://img.shields.io/badge/vs code-ffffff?style=flat-square&logo=visual-studio-code&logoColor=0066b8"/>
 <img height="20" src="https://img.shields.io/badge/git-ffffff?style=flat-square&logo=git&logoColor=f54d27"/>
 <img height="20" src="https://img.shields.io/badge/chrome-ffffff?style=flat-square&logo=google-chrome&logoColor=fdc73d"/>
+<img height="20" src="https://img.shields.io/badge/sentry-ffffff?style=flat-square&logo=sentry&logoColor=e1567c"/>
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaeSakuras&&hide=tsql) 
