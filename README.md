@@ -9,10 +9,14 @@
 <img height="25" src="https://img.shields.io/badge/babel-ffffff?style=flat-square&logo=Babel&logoColor=F9DC3E"/>
 <img height="25" src="https://img.shields.io/badge/react-ffffff?style=flat-square&logo=React&logoColor=61DAFB"/>
 <img height="25" src="https://img.shields.io/badge/vue-ffffff?style=flat-square&logo=vue.js&logoColor=FC08D"/>
-<img height="25" src="https://img.shields.io/badge/nginx-ffffff?style=flat-square&logo=nginx&logoColor=e1567c"/>
-<img height="25" src="https://img.shields.io/badge/node.js-ffffff?style=flat-square&logo=Node.js&logoColor=339933"/>
 </p>
 
+<p>
+<img height="25" src="https://img.shields.io/badge/nginx-ffffff?style=flat-square&logo=nginx&logoColor=e1567c"/>
+<img height="25" src="https://img.shields.io/badge/node.js-ffffff?style=flat-square&logo=Node.js&logoColor=339933"/>
+<img height="25" src="https://img.shields.io/badge/docker-ffffff?style=flat-square&logo=Docker&logoColor=2496ED"/>
+<img height="25" src="https://img.shields.io/badge/docker-ffffff?style=flat-square&logo=MySQL&logoColor=4479A1"/>
+</p>
 #### 常用工具
 
 <p>
