@@ -1,5 +1,3 @@
-[个人网站](https://www.zhouzh.tech/)
-
 #### 日常开发
 <p>
 <img height="25" src="https://img.shields.io/badge/javascript-ffffff?style=flat-square&logo=JavaScript&logoColor=F7DF1E"/>
